@@ -4,7 +4,7 @@ I don\`t know who am i but i`m making plugins
 for minecraft servers and also using python sometimes
 
 <img
-  src="https://github.com/BoBkiNN/BoBkiNN/blob/master/stat.svg"
+  src="https://github.com/BoBkiNN/BoBkiNN/blob/main/2_5222052595480139161.webm"
   alt="Small and sad kitten"
 />
 
