@@ -9,7 +9,7 @@ for minecraft servers and also using python sometimes
 />
 
 ## My best creations:
-- ![ServerJoinBlocker](https://github.com/BoBkiNN/ServerJoinBlocker)
+- [ServerJoinBlocker](https://github.com/BoBkiNN/ServerJoinBlocker)
 - link2
 
 ## Stats:
