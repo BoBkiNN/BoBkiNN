@@ -3,6 +3,11 @@
 I don\`t know who am i but i`m making plugins
 for minecraft servers and also using python sometimes
 
+<img
+  src="https://github.com/BoBkiNN/BoBkiNN/blob/master/stat.svg"
+  alt="Small and sad kitten"
+/>
+
 ## My best creations:
 - link1
 - link2
