@@ -8,6 +8,6 @@ for minecraft servers and also using python sometimes
 - link2
 
 ## Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=BoBkiNN_&show_icons=true&theme=tokyonight&bg_color=50,2813fb,6052ff&title_color=ebebeb&text_color=cbcbcb)
+![Stats](https://github-readme-stats.vercel.app/api?username=BoBkiNN&show_icons=true&theme=tokyonight&bg_color=50,2813fb,6052ff&title_color=ebebeb&text_color=cbcbcb)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBkiNN&layout=compact&theme=codeSTACKr)
