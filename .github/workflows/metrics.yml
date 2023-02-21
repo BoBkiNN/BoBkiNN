@@ -31,7 +31,7 @@ jobs:
           config_timezone: Asia/Omsk
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: public
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
