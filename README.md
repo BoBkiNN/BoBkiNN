@@ -9,7 +9,7 @@ for minecraft servers and also using python sometimes
 />
 
 ## My best creations:
-- [OpenToPublic](https://github.com/BoBkiNN/OpenToPublic) _(active)_
+- [OpenToPublic](https://github.com/BoBkiNN/OpenToPublic)
 - [ServerJoinBlocker](https://github.com/BoBkiNN/ServerJoinBlocker)
 - [FactorioModsDownloader](https://github.com/BoBkiNN/FactorioModsDownloader)
 - and some repos that are hidden :)
