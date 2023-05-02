@@ -1,7 +1,6 @@
 ### BoBkiNN_
 
-I don\`t know who am i but i\`m from Kazakhstan and i`m making plugins
-for minecraft servers and also using python sometimes
+I don\`t know who am i but i\`m from Kazakhstan and i`m making plugins and mods for Minecraft and also using python sometimes
 
 <img
   src="https://media.discordapp.net/attachments/1004083590470041691/1004084772542369822/2gA_VxD_E8o.jpg"
