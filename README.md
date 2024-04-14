@@ -3,7 +3,7 @@
 I don\`t know who am i but i\`m from Kazakhstan and i`m making plugins and mods for Minecraft and also using python sometimes
 
 <img
-  src="https://media.discordapp.net/attachments/1004083590470041691/1004084772542369822/2gA_VxD_E8o.jpg"
+  src="https://media.discordapp.net/attachments/1004083590470041691/1004084772542369822/2gA_VxD_E8o.jpg?ex=6627f5d0&is=661580d0&hm=45d6b4171d10488679225446c4cf97e799d22a4a612080fb6935e4438d0cd808&"
   alt="Small and sad kitten"
 />
 
