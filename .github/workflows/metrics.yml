@@ -28,7 +28,7 @@ jobs:
           user: BoBkiNN
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Omsk
+          config_timezone: Asia/Almaty
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
