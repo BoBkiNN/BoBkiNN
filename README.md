@@ -7,11 +7,7 @@ I don\`t know who am i but i\`m from Kazakhstan and i`m making plugins and mods 
   alt="Small kitten"
 />
 
-## My best creations:
-- [OpenToPublic](https://github.com/BoBkiNN/OpenToPublic)
-- [ServerJoinBlocker](https://github.com/BoBkiNN/ServerJoinBlocker)
-- [FactorioModsDownloader](https://github.com/BoBkiNN/FactorioModsDownloader)
-- and some repos that are hidden :)
+## My Minecraft mods, datapacks, plugins: https://modrinth.com/user/BoBkiNN
 
 ## Stats:
 #### Metrics
@@ -28,10 +24,4 @@ I don\`t know who am i but i\`m from Kazakhstan and i`m making plugins and mods 
   src="https://wakatime.com/share/@BoBkiNN_/f5c80ca5-832f-44a8-b136-dacc1e5d7ce3.svg"
   alt="Wakatime stats"
   width=500
-/>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BoBkiNN&show_icons=true&icon_color=333333&bg_color=50,e3d917,17e391&title_color=222222&text_color=333333&border_radius=10&count_private=True&include_all_commits=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBkiNN&layout=compact&theme=aura_dark)
-<p>Profile views (wtf why so many):</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BoBkiNN}/count.svg" /></p> 
+/> ![Stats](https://github-readme-stats.vercel.app/api?username=BoBkiNN&show_icons=true&icon_color=333333&bg_color=50,e3d917,17e391&title_color=222222&text_color=333333&border_radius=10&count_private=True&include_all_commits=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBkiNN&layout=compact&theme=aura_dark)
